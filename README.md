@@ -1,4 +1,6 @@
-# GrimAC
+# GrimAC (But Better)
+
+## This is basically just a slightly improved version of Grim, with some possible exploits removed and more checks added.
 
 This project is considered feature complete for the 2.0 (open-source) branch of this project. If you would like a bugfix or enhancement and cannot sponsor the work, pull requests are welcome. You can join the [discord](https://discord.com/invite/kqQAhTmkUF) for jar releases & changelogs.
 
